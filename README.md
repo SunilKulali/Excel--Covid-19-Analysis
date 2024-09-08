@@ -1,4 +1,6 @@
 # Excel--Covid-19-Analysis
+
+## Overview
 This repository contains a comprehensive COVID-19 report project, designed to analyze and visualize the impact of the COVID-19 pandemic across various regions. The project includes data analysis, trend visualization, and insights based on the latest available data.
 
 Author :- Sunil Kulali
@@ -54,7 +56,7 @@ Author :- Sunil Kulali
 - Compare the impact of different lockdown policies across countries.
 
 ## Snapshot 
-![COVID-19 Analysis Dashboard](C:\Users\skula\OneDrive\Desktop\Covid-19 image.png)
+![COVID-19 Analysis Dashboard](https://github.com/SunilKulali/Excel--Covid-19-Analysis/blob/main/Covid-19%20image.png?raw=true)
 
 ## Contributing
 
