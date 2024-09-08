@@ -33,7 +33,7 @@ Author :- Sunil Kulali
    - Create pivot tables to segment data by country and region.
    - Use Excel charts (line charts, bar charts, and pie charts) to visualize trends.
    - Build dashboards to present the analysis interactively.
-   
+
 ## Key Findings
 
 - The infection rate and mortality rate varied significantly across regions.
@@ -52,6 +52,9 @@ Author :- Sunil Kulali
 - Automate the data refresh process using Power Query in Excel.
 - Add more data points like vaccination rates, variants of concern, and hospitalizations.
 - Compare the impact of different lockdown policies across countries.
+
+## Snapshot 
+![COVID-19 Analysis Dashboard](C:\Users\skula\OneDrive\Desktop\Covid-19 image.png)
 
 ## Contributing
 
